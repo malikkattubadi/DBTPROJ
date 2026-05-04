@@ -1,0 +1,1 @@
+select * from {{ref("stg_google_events_att_rec")}}
